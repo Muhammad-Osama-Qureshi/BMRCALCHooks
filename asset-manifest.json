@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BMRCALCHooks/static/css/main.19962a5c.chunk.css",
+    "main.js": "/BMRCALCHooks/static/js/main.b1ee90e1.chunk.js",
+    "main.js.map": "/BMRCALCHooks/static/js/main.b1ee90e1.chunk.js.map",
+    "runtime-main.js": "/BMRCALCHooks/static/js/runtime-main.4b3aa81f.js",
+    "runtime-main.js.map": "/BMRCALCHooks/static/js/runtime-main.4b3aa81f.js.map",
+    "static/js/2.7d17bc6c.chunk.js": "/BMRCALCHooks/static/js/2.7d17bc6c.chunk.js",
+    "static/js/2.7d17bc6c.chunk.js.map": "/BMRCALCHooks/static/js/2.7d17bc6c.chunk.js.map",
+    "static/js/3.80a0baa9.chunk.js": "/BMRCALCHooks/static/js/3.80a0baa9.chunk.js",
+    "static/js/3.80a0baa9.chunk.js.map": "/BMRCALCHooks/static/js/3.80a0baa9.chunk.js.map",
+    "index.html": "/BMRCALCHooks/index.html",
+    "static/css/main.19962a5c.chunk.css.map": "/BMRCALCHooks/static/css/main.19962a5c.chunk.css.map",
+    "static/js/2.7d17bc6c.chunk.js.LICENSE.txt": "/BMRCALCHooks/static/js/2.7d17bc6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b3aa81f.js",
+    "static/js/2.7d17bc6c.chunk.js",
+    "static/css/main.19962a5c.chunk.css",
+    "static/js/main.b1ee90e1.chunk.js"
+  ]
+}
