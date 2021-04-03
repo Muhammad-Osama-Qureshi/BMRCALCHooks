@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -13,26 +14,37 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.container{
+  margin-top: 100px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  margin-left: 390px;
+  border-radius: 30px;
+}
+.cal{
+  display: grid;
+  grid-column: auto;
+}
+.reset:hover{
+  background-color: brown;
+  cursor: pointer;
+  border: none;
+}
+.reset{
+  border-radius: 30px;
+  border: none;
 }
 
-.App-link {
-  color: #61dafb;
-}
+.btn{
+background-color: brown;
+border-radius: 30px;
+border: none;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.btn:hover{
+cursor: pointer;
 }
